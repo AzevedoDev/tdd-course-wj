@@ -1,0 +1,24 @@
+{
+  "name": "tdd-course-wj",
+  "version": "1.0.0",
+  "description": "TDD couse by Willian Justen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzevedoDev/tdd-course-wj.git"
+  },
+  "keywords": [
+    "js",
+    "library",
+    "tdd"
+  ],
+  "author": "Pedro Azevedo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AzevedoDev/tdd-course-wj/issues"
+  },
+  "homepage": "https://github.com/AzevedoDev/tdd-course-wj#readme"
+}
